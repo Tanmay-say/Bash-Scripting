@@ -1,1 +1,1 @@
-ls -l | sort
+ls -lt
